@@ -8,7 +8,6 @@
 </p>
 
 
-*I wanted to insert a programming joke here, but the best joke i know is my code, so please have a look at my repositories :)*
 
 <br><br>
 
@@ -44,4 +43,7 @@
 <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiduanush&show_icons=true&locale=en" alt="chiduanush" /></p>
+
+<hr>
+<i align="center" >I wanted to insert a programming joke here, but the best joke i know is my code, so please have a look at my repositories :)</i>
 
