@@ -20,9 +20,9 @@
 <p>- ⚡ Fun fact: Your brain is for having ideas, not storing them.</p>
 <h4>Lets connect:</h4>
 <p>
-<a href="https://linkedin.com/in/chidambaram arunachalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chidambaram arunachalam" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/chidambaram-arunachalam-42a7b6231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chidambaram arunachalam" height="25" width="35" /></a>
 <a href="https://instagram.com/itsss.chidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsss.chidu" height="25" width="35" /></a>
-<a href="https://www.youtube.com/c/chidu's chamber of music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chidu's chamber of music" height="25" width="35" /></a>
+<a href="https://www.youtube.com/@chiduschamberofmusic9146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chidu's chamber of music" height="25" width="35" /></a>
 </p>
 
 <br>
