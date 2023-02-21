@@ -40,11 +40,11 @@
 
 <br><br>
 
-<p align="center"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiduanush&show_icons=true&theme=dark&locale=en&layout=compact" alt="chiduanush" /></p>
+<p align="center"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiduanush&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="chiduanush" /></p>
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiduanush&show_icons=true&theme=dark&locale=en" alt="chiduanush" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiduanush&show_icons=true&theme=dark&hide_border=true&locale=en" alt="chiduanush" /></p>
 
 <hr>
 <i align="center" >First solve the problem, then write the code :)</i>
