@@ -4,7 +4,7 @@
 <p align="center">I'm <b>Chidambaram</b>, a curious and cheerful student, exploring the world of programming.</p>
 
 <p align="center">   
-   I am a passionate learner willing to get an experience of all technologies and domains :bulb:. I like to explore new concepts, and apply then to solve real life problems. Currently into web development :computer: and occational UI designing, working on my DSA skills. I also love physics, and wanna learn more about how to universe works :dizzy: 
+   I am a passionate learner willing to get an experience of all technologies and domains :bulb:. I like to explore new concepts, and apply them to solve real life problems. Currently into web development :computer: and occational UI designing, working on my DSA skills. I also love physics, and wanna learn more about how to universe works :dizzy: 
 </p>
 
 
