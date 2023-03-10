@@ -46,6 +46,11 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiduanush&show_icons=true&theme=dark&hide_border=true&locale=en" alt="chiduanush" /></p>
 
+<br>
+
+<p align="center"><img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?
+   user=chiduanush&theme=highcontrast&hide_border=false" alt="Chiduanush" /></p>
+
 <hr>
 <i align="center" >First solve the problem, then write the code :)</i>
 
