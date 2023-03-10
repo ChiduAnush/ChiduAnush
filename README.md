@@ -48,8 +48,18 @@
 
 <br>
 
-<p align="center"><img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?
-   user=chiduanush&theme=highcontrast&hide_border=false" alt="Chiduanush" /></p>
+<!-- <p align="center"><img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?
+   user=chiduanush&theme=highcontrast&hide_border=false" alt="Chiduanush" /></p> -->
+<h1 align="center">
+   
+![ ](https://github-readme-streak-stats.herokuapp.com/?user=mkswagger&theme=dark&hide_border=true)
+   
+<br>
+
+   
+![](https://github-profile-trophy.vercel.app/?username=chiduanush&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+</h1>
 
 <hr>
 <i align="center" >First solve the problem, then write the code :)</i>
