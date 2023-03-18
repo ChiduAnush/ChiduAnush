@@ -93,7 +93,7 @@
 
 <br>
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <h1 align="center">
 
