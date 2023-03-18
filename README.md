@@ -13,6 +13,7 @@
 
 <img align="right" alt="me" width="300" src="https://user-images.githubusercontent.com/100338909/212535741-69143664-3303-427b-8889-574a6bda1548.jpg">
 
+<!--
 <p>- :raising_hand: sophomore at SRMIST, ktr.</p>
 <p>- 🌱 Currently learning tailwind CSS, javascript.</p>
 <p>- 👯 part time ui/ux designer, and web developer.</p>
@@ -50,7 +51,7 @@
 
 <!-- <p align="center"><img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?
    user=chiduanush&theme=highcontrast&hide_border=false" alt="Chiduanush" /></p> -->
-<h1 align="center">
+<!-- <h1 align="center">
    
 ![ ](https://github-readme-streak-stats.herokuapp.com/?user=mkswagger&theme=dark&hide_border=true)
    
@@ -64,3 +65,40 @@
 <hr>
 <i align="center" >First solve the problem, then write the code :)</i>
 
+ -->
+ 
+ 
+## 💫 About Me:
+🧑‍💻 sophomore at SRM, ktr<br>🔭 I'm currently into web dev.<br>👯 Part time UI/UX designer<br>🤝 I’m looking for help with ML and AI<br>🌱 exploring the world of development <br>⚡ Fun fact : it took less code to send to space, than to run your smartphone
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#6346) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsss.chidu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidambaram-arunachalam/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chiduschamberofmusic9146) 
+
+<br>
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats:
+
+<h1 align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ChiduAnush&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChiduAnush&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiduAnush&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</h1>
+
+<br>
+
+# 🏆 GitHub Trophies
+
+<h1 align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ChiduAnush&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+</h1>
+
+---
+[![](https://visitcount.itsvg.in/api?id=ChiduAnush&icon=2&color=12)](https://visitcount.itsvg.in)
