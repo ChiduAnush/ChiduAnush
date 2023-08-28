@@ -69,7 +69,7 @@
  
  
 ## 💫 About Me:
-🧑‍💻 sophomore at SRM, ktr<br>🔭 I'm currently into web dev.<br>👯 Part time UI/UX designer<br>🤝 I’m looking for help with ML and AI<br>🌱 exploring the world of development <br>⚡ Fun fact : it took less code to send to space, than to run your smartphone
+🧑‍💻 sophomore at SRM, ktr<br>🔭 I'm currently into web dev and ML.<br>👯 Part time UI/UX designer<br>🤝 I’m looking for help with ML and AI<br>🌱 exploring the world of development and Quantum. <br>⚡ Fun fact : it took less code to send to space, than to run your smartphone
 
 
 ## 🌐 Socials:
