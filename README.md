@@ -1,10 +1,10 @@
 ![spaceimage](https://user-images.githubusercontent.com/100338909/212534969-80239d0b-5d0d-4ae3-9c71-d62dceb15b6c.jpg)
 
 <h2 align="center">Hello there!</h2>
-<p align="center">I'm <b>Chidambaram</b>, a curious and cheerful student, exploring the world of programming.</p>
+<p align="center">I'm <b>Chidambaram</b>, a curious and cheerful student, exploring the world of programming and design.</p>
 
 <p align="center">   
-   I am a passionate learner willing to get an experience of all technologies and domains :bulb:. I like to explore new concepts, and apply them to solve real life problems. Currently into web development :computer: and occational UI designing, working on my DSA skills. I also love physics, and wanna learn more about how to universe works :dizzy: 
+   I am a passionate learner willing to get an experience of all technologies and domains :bulb:. I like to explore new concepts, and apply them to solve real life problems. Currently into iOS Development :computer: and occational UI designing, working on my DSA skills. I also love physics, and wanna learn more about how to universe works :dizzy: 
 </p>
 
 
@@ -69,7 +69,7 @@
  
  
 ## 💫 About Me:
-🧑‍💻 sophomore at SRM, ktr<br>🔭 I'm currently into web dev and ML.<br>👯 Part time UI/UX designer<br>🤝 I’m looking for help with ML and AI<br>🌱 exploring the world of development and Quantum. <br>⚡ Fun fact : it took less code to send to space, than to run your smartphone
+🧑‍💻 final year student at SRM, ktr<br>🔭 I'm currently into web dev and iOS Dev.<br>👯 Part time UI/UX designer<br>🤝 I’m looking for help with developing SaaS products.<br>🌱 exploring the world of development and Quantum. <br>⚡ Fun fact : it took less code to send to space, than to run your smartphone
 
 
 ## 🌐 Socials:
